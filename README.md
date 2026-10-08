@@ -1,6 +1,6 @@
 # three.js slides prompt
 
-Prompt I used to build a three.js presentation canvas with Claude Code (Opus 5.5). Swap in your own topic and colors and go.
+Prompt I used to build a three.js presentation canvas with Claude Code (Opus 5.5).
 
 ## The prompt
 
