@@ -11,9 +11,39 @@ Prompt I used to build a three.js presentation canvas with Claude Code (Opus 5.5
 > start with base example of maybe default expectaion with a default prompt, like "how is this pr?", or "can you fix this issue and make a draft pr?" the simple questions.
 > some strategies could be - can you have another agent review this and lets discuss?   maybe its adding screenshots to the pr.  maybe its telling the agent to split the pr up into no-brainer approval PRs to decrease cognative load. maybe its making an interactive localhost thing for the purpose of helping understand the work. etc
 
+Then 14 [follow-ups](#follow-ups) over 1h 26m to get it here:
+
+## What it made
+
+![](slides/00-make-yes-effortless.jpg)
+
+![](slides/01-the-moment.jpg)
+
+![](slides/02-the-default-ask.jpg)
+
+![](slides/03-are-you-happy-with-this.jpg)
+
+![](slides/05-loop-until-it-s-boring.jpg)
+
+![](slides/06-show-don-t-tell.jpg)
+
+![](slides/07-split-into-no-brainers.jpg)
+
+![](slides/08-build-a-way-to-see-it.jpg)
+
+![](slides/09-prove-it-with-artifacts.jpg)
+
+![](slides/10-one-place-to-look.jpg)
+
+![](slides/11-takeaway.jpg)
+
+![](slides/12-your-turn.jpg)
+
+![](slides/13-how-this-was-made.jpg)
+
 ## Follow-ups
 
-How it got from first draft to done, in 1h 26m. Times are US Central, Oct 8 2026. Typos and all.
+Times are US Central, Oct 8 2026. Typos and all.
 
 ### 01 · 12:59 PM · +31m
 
@@ -105,31 +135,3 @@ How it got from first draft to done, in 1h 26m. Times are US Central, Oct 8 2026
 > can you put timestamps too
 
 → added these timestamps
-
-## What it made
-
-![](slides/00-make-yes-effortless.jpg)
-
-![](slides/01-the-moment.jpg)
-
-![](slides/02-the-default-ask.jpg)
-
-![](slides/03-are-you-happy-with-this.jpg)
-
-![](slides/05-loop-until-it-s-boring.jpg)
-
-![](slides/06-show-don-t-tell.jpg)
-
-![](slides/07-split-into-no-brainers.jpg)
-
-![](slides/08-build-a-way-to-see-it.jpg)
-
-![](slides/09-prove-it-with-artifacts.jpg)
-
-![](slides/10-one-place-to-look.jpg)
-
-![](slides/11-takeaway.jpg)
-
-![](slides/12-your-turn.jpg)
-
-![](slides/13-how-this-was-made.jpg)
